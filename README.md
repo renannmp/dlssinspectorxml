@@ -1,5 +1,7 @@
 # NVIDIA Profile Inspector XML
 
+![XML Screenshot](https://github.com/renannmp/dlssinspectorxml/blob/main/Screenshot.png)
+
 XML com funcionalidades extras para o Profile Inspector como a Sobreposição do DLSS, que te dá liberdade para testar forçar em qualquer jogo não validado pela NVIDIA.
 
 

@@ -9167,7 +9167,7 @@
     </CustomSetting>
 
 	<CustomSetting>
-		<UserfriendlyName>Force DLAA</UserfriendlyName>
+		<UserfriendlyName>DLSS - Force DLAA</UserfriendlyName>
 		<HexSettingID>0x10E41DF4</HexSettingID>
 		<GroupName>0.2 - DLSS Overrides</GroupName>
 		<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
@@ -9185,7 +9185,7 @@
 	  </CustomSetting>
 
 	  <CustomSetting>
-		<UserfriendlyName>Super Resolution Preset</UserfriendlyName>
+		<UserfriendlyName>DLSS - Preset Super Resolution</UserfriendlyName>
 		<HexSettingID>0x10E41DF3</HexSettingID>
 		<GroupName>0.2 - DLSS Overrides</GroupName>
 		<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
@@ -9263,7 +9263,7 @@
 	  </CustomSetting>
 
 <CustomSetting>
-  <UserfriendlyName>Super Resolution Override</UserfriendlyName>
+  <UserfriendlyName>DLSS - Override Super Resolution</UserfriendlyName>
   <HexSettingID>0x10E41E01</HexSettingID>
   <GroupName>0.2 - DLSS Overrides</GroupName>
   <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
@@ -9281,7 +9281,7 @@
 </CustomSetting>
 
 <CustomSetting>
-  <UserfriendlyName>Ray Reconstruction Override</UserfriendlyName>
+  <UserfriendlyName>DLSS - Override Ray Reconstruction</UserfriendlyName>
   <HexSettingID>0x10E41E02</HexSettingID>
   <GroupName>0.2 - DLSS Overrides</GroupName>
   <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
@@ -9299,7 +9299,7 @@
 </CustomSetting>
 
 <CustomSetting>
-  <UserfriendlyName>Frame Generation Override</UserfriendlyName>
+  <UserfriendlyName>DLSS - Override Frame Generation</UserfriendlyName>
   <HexSettingID>0x10E41E03</HexSettingID>
   <GroupName>0.2 - DLSS Overrides</GroupName>
   <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
@@ -9317,7 +9317,7 @@
 </CustomSetting>
 
 <CustomSetting>
-  <UserfriendlyName>Ray Reconstruction Preset</UserfriendlyName>
+  <UserfriendlyName>DLSS - Preset Ray Reconstruction</UserfriendlyName>
   <HexSettingID>0x10E41DF7</HexSettingID>
   <GroupName>0.2 - DLSS Overrides</GroupName>
   <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
@@ -9395,7 +9395,7 @@
 	  </CustomSetting>
 
 <CustomSetting>
-  <UserfriendlyName>Super Resolution Perf to Ultra Perf</UserfriendlyName>
+  <UserfriendlyName>DLSS - Super Resolution Perf to Ultra Perf</UserfriendlyName>
   <HexSettingID>0x10AFB76C</HexSettingID>
   <GroupName>0.2 - DLSS Overrides</GroupName>
   <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
@@ -9413,7 +9413,7 @@
 </CustomSetting>
 
 <CustomSetting>
-  <UserfriendlyName>Frame Generation Frame Count</UserfriendlyName>
+  <UserfriendlyName>DLSS - Frame Generation Frame Count</UserfriendlyName>
   <HexSettingID>0x104D6667</HexSettingID>
   <GroupName>0.2 - DLSS Overrides</GroupName>
   <MinRequiredDriverVersion>0</MinRequiredDriverVersion>

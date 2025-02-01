@@ -1,9 +1,6 @@
 # NVIDIA Profile Inspector XML
 
-![XML Screenshot](https://github.com/renannmp/dlssinspectorxml/blob/main/Screenshot.png)
-
 XML com funcionalidades extras para o Profile Inspector como a Sobreposição do DLSS, que te dá liberdade para testar forçar em qualquer jogo não validado pela NVIDIA.
-
 
 Use o registro DLSS Overlay Toggle, para confirmar que a versão do DLSS, Preset e Resolução foram aplicadas corretamente.
 
@@ -26,3 +23,6 @@ As funcionalidades adicionadas ao NVIDIA App podem ser forçadas em qualquer jog
 **Super Resolution Perf to Ultra Perf** -> Faz com que o perfil "Desempenho" dos jogos vire o "Ultra Desempenho".
 
 Algumas observações, mudar a mesma opção no NVIDIA App e no Inspector pode causar conflito, o ideal é usar apenas um dos dois para essas funções. O NVIDIA App suporta apenas jogos validados pela NVIDIA, com o Inspector, você pode testar em tudo.
+
+## Prévia
+![XML Screenshot](https://github.com/renannmp/dlssinspectorxml/blob/main/Screenshot.png)

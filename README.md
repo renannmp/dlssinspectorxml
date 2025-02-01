@@ -1,6 +1,6 @@
 # NVIDIA Profile Inspector XML
 
-XML com funcionalidades extras para o Profile Inspector como a Sobreposição do DLSS, que te dá liberdade para testar forçar em qualquer jogo não valiado pela NVIDIA.
+XML com funcionalidades extras para o Profile Inspector como a Sobreposição do DLSS, que te dá liberdade para testar forçar em qualquer jogo não validado pela NVIDIA.
 
 
 Use o registro DLSS Overlay Toggle, para confirmar que a versão do DLSS, Preset e Resolução foram aplicadas corretamente.

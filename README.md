@@ -11,6 +11,7 @@ O NVIDIA Profile Inspector pode ser baixado [aqui](https://github.com/Orbmu2k/nv
 
 ## Sobreposição de DLSS
 As funcionalidades adicionadas ao NVIDIA App podem ser forçadas em qualquer jogo e até mesmo de forma global pelo Inspector usando esse XML, abaixo uma breve explicação de cada item da seção "DLSS Overrides".
+
 **NOTA:** SR = Super Resolution | RR = Ray Reconstruction | FG = Frame Generation
 
 **SR - Force DLAA** -> ON = Força todos os perfis do DLSS a agirem como DLAA (renderizado em cima da resolução nativa), OFF = Padrão

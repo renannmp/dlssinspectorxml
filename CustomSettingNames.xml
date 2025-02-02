@@ -9436,6 +9436,7 @@
   <UserfriendlyName>FG - Frame Multiplier (40 Series+)</UserfriendlyName>
   <HexSettingID>0x104D6667</HexSettingID>
   <GroupName>0.2 - DLSS Overrides</GroupName>
+  <OverrideDefault>0x00000000</OverrideDefault>
   <SettingValues>
     <CustomSettingValue>
       <UserfriendlyName>2x (40 Series+)</UserfriendlyName>

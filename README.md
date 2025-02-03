@@ -24,7 +24,7 @@ As funcionalidades adicionadas ao NVIDIA App podem ser forçadas em qualquer jog
 
 **SR - Perf to Ultra Perf** -> Faz com que o perfil "Desempenho" dos jogos vire o "Ultra Desempenho".
 
-**RR e SR - Override Scale Factor** -> Possibilita forçar e fixar os modos do Ray Reconstruction e Super Resolution, mesmo que o jogo não suporte.
+**RR e SR - Force Profile Mode** -> Possibilita forçar e fixar os modos do Ray Reconstruction e Super Resolution, mesmo que o jogo não suporte.
 
 Algumas observações, mudar a mesma opção no NVIDIA App e no Inspector pode causar conflito, o ideal é usar apenas um dos dois para essas funções. O NVIDIA App suporta apenas jogos validados pela NVIDIA, com o Inspector, você pode testar em tudo.
 

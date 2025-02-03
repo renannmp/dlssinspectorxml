@@ -9455,7 +9455,7 @@
 </CustomSetting>
 	
 	<CustomSetting>
-  <UserfriendlyName>RR - Override Scale Factor</UserfriendlyName>
+  <UserfriendlyName>RR - Force Profile Mode</UserfriendlyName>
   <HexSettingID>0x10BD9423</HexSettingID>
   <GroupName>0.2 - DLSS Overrides</GroupName>
   <SettingValues>
@@ -9492,7 +9492,7 @@
 </CustomSetting>
 
 <CustomSetting>
-  <UserfriendlyName>SR - Override Scale Factor</UserfriendlyName>
+  <UserfriendlyName>SR - Force Profile Mode</UserfriendlyName>
   <HexSettingID>0x10AFB768</HexSettingID>
   <GroupName>0.2 - DLSS Overrides</GroupName>
   <MinRequiredDriverVersion>0</MinRequiredDriverVersion>

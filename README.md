@@ -14,8 +14,6 @@ As funcionalidades adicionadas ao NVIDIA App podem ser forçadas em qualquer jog
 
 **NOTA:** SR = Super Resolution | RR = Ray Reconstruction | FG = Frame Generation
 
-**DLSS - Force DLAA** -> ON = Força todos os perfis do DLSS a agirem como DLAA (renderizado em cima da resolução nativa), OFF = Padrão
-
 **DLSS-FG - Multi-Frame-Generation Count** -> Especifica em quantas vezes serão gerados os quadros do Frame Generation
 
 **DLSS-FG, DLSS-RR e DLSS - DLL Override** -> ON = Faz com que o driver substituia a DLL do DLSS do jogo com a dele, OFF = Padrão

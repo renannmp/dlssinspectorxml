@@ -20,7 +20,7 @@ As funcionalidades adicionadas ao NVIDIA App podem ser forçadas em qualquer jog
 
 **DLSS-FG, DLSS-RR e DLSS - Force Preset Letter** -> Aqui é possível forçar algum preset de cada parte do DLSS, recomendo usar a opção "Latest Preset" em todos
 
-**DLSS-RR e DLSS - Force Quality Level** -> Possibilita forçar e fixar os modos do Ray Reconstruction e Super Resolution, mesmo que o jogo não suporte.
+**DLSS-RR e DLSS - Forced Quality Level** -> Possibilita forçar e fixar os modos do Ray Reconstruction e Super Resolution, mesmo que o jogo não suporte.
 
 **DLSS e DLSS-RR - Forced Scaling Ratio** -> Customiza a porcentagem de escalonamento do DLSS, só funciona em drivers mais antigos **(Antes do 571)**. Para ativar a funcionalidade, coloque o Force Profile Mode em Custom e escolha a opção do Scaling Factor que deseja.
 

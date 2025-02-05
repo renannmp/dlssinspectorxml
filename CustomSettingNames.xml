@@ -8897,7 +8897,7 @@
 				<HexValue>0x00000000</HexValue>
 				</CustomSettingValue>
 				<CustomSettingValue>
-				<UserfriendlyName>Always use latest</UserfriendlyName>
+				<UserfriendlyName>Latest Preset</UserfriendlyName>
 				<HexValue>0x00FFFFFF</HexValue>
 			</CustomSettingValue>
 			</SettingValues>

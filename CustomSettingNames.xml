@@ -8976,15 +8976,15 @@
 	</CustomSettingValue>
     <CustomSettingValue>
       <UserfriendlyName>2x</UserfriendlyName>
-      <HexValue>0x00000000</HexValue>
-    </CustomSettingValue>
-    <CustomSettingValue>
-      <UserfriendlyName>3x</UserfriendlyName>
       <HexValue>0x00000001</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
+      <UserfriendlyName>3x</UserfriendlyName>
+      <HexValue>0x00000002</HexValue>
+    </CustomSettingValue>
+    <CustomSettingValue>
       <UserfriendlyName>4x</UserfriendlyName>
-      <HexValue>0x0000000F</HexValue>
+      <HexValue>0x00000003</HexValue>
     </CustomSettingValue>
   </SettingValues>
   <SettingMasks/>
@@ -9227,5 +9227,6 @@
 			<GroupName>5 - Common</GroupName>
 			<MinRequiredDriverVersion>571.86</MinRequiredDriverVersion>
 		</CustomSetting>
+
 </Settings>
 </CustomSettingNames>

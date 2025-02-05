@@ -1,4 +1,4 @@
-Atualmente, o app da Nvidia usa uma whitelist para ativar as opções de DLSS Override nas configurações dos jogos.
+Atualmente, o app da Nvidia usa uma whitelist para ativar as opções de DLSS Override (Sobreposição de DLSS) nas configurações dos jogos.
 
 Lembre-se de que isso apenas ativa a configuração de override no driver para qualquer jogo, até mesmo para aqueles sem DLSS. Se ativar em um jogo que não tem DLSS, simplesmente não fará nada. Isso **não** adiciona DLSS magicamente a um jogo que não o suporta.  
 
@@ -31,4 +31,5 @@ Agora você pode usar o **DLSS Override** em um jogo que tenha DLSS, mas não es
 
 ## EXTRA
 
-Script para fazer o processo automáticamente: 
+Script para fazer o processo automáticamente: [Baixe aqui](https://github.com/renannmp/dlssinspectorxml/releases/download/1.0-Script/NVIDIA.App.Unlock.7z)
+para usar, execute o "RunScript.bat" como administrador.

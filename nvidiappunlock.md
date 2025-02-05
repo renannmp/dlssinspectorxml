@@ -32,4 +32,5 @@ Agora você pode usar o **DLSS Override** em um jogo que tenha DLSS, mas não es
 ## EXTRA
 
 Script para fazer o processo automáticamente: [Baixe aqui](https://github.com/renannmp/dlssinspectorxml/releases/download/1.0-Script/NVIDIA.App.Unlock.7z)
-para usar, execute o "RunScript.bat" como administrador.
+
+Para usar, execute o "RunScript.bat" como administrador.

@@ -9,7 +9,7 @@ Baixe a última versão do XML [aqui](https://github.com/renannmp/dlssinspectorx
 O NVIDIA Profile Inspector pode ser baixado [aqui](https://github.com/Orbmu2k/nvidiaProfileInspector/releases)
 
 
-## Sobreposição de DLSS
+## Sobreposição de DLSS pelo Profile Inspector
 As funcionalidades adicionadas ao NVIDIA App podem ser forçadas em qualquer jogo e até mesmo de forma global pelo Inspector usando esse XML, abaixo uma breve explicação de cada item da seção "DLSS Overrides".
 
 **NOTA:** SR = Super Resolution | RR = Ray Reconstruction | FG = Frame Generation
@@ -26,5 +26,5 @@ As funcionalidades adicionadas ao NVIDIA App podem ser forçadas em qualquer jog
 
 Algumas observações, mudar a mesma opção no NVIDIA App e no Inspector pode causar conflito, o ideal é usar apenas um dos dois para essas funções. O NVIDIA App suporta apenas jogos validados pela NVIDIA, com o Inspector, você pode testar em tudo.
 
-## Prévia
-![XML Screenshot](https://github.com/renannmp/dlssinspectorxml/blob/main/Screenshot.png)
+## Sobreposição de DLSS pelo NVIDIA App em qualquer jogo
+Veja como fazer [aqui](https://github.com/renannmp/dlssinspectorxml/blob/main/nvidiappunlock.md)

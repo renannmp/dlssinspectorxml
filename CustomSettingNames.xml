@@ -209,6 +209,38 @@
 			<SettingMasks/>
 		</CustomSetting>
 		<CustomSetting>
+			<UserfriendlyName>DLSS - Perf. Quality Level to Ultra Perf. Override</UserfriendlyName>
+			<HexSettingID>0x10AFB76C</HexSettingID>
+			<GroupName>0.1 - DLSS Override</GroupName>
+			<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
+			<SettingValues>
+				<CustomSettingValue>
+					<UserfriendlyName>Off</UserfriendlyName>
+					<HexValue>0x00000000</HexValue>
+				</CustomSettingValue>
+				<CustomSettingValue>
+					<UserfriendlyName>On - Replaces Performance Quality Level with Ultra Performance</UserfriendlyName>
+					<HexValue>0x00000001</HexValue>
+				</CustomSettingValue>
+			</SettingValues>
+		</CustomSetting>
+		<CustomSetting>
+			<UserfriendlyName>DLSS - Forced DLAA</UserfriendlyName>
+			<HexSettingID>0x10E41DF4</HexSettingID>
+			<GroupName>0.1 - DLSS Override</GroupName>
+			<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
+			<SettingValues>
+				<CustomSettingValue>
+					<UserfriendlyName>Off</UserfriendlyName>
+					<HexValue>0x00000000</HexValue>
+				</CustomSettingValue>
+				<CustomSettingValue>
+					<UserfriendlyName>On - All Quality Levels will be DLAA</UserfriendlyName>
+					<HexValue>0x00000001</HexValue>
+				</CustomSettingValue>
+			</SettingValues>
+		</CustomSetting>		
+		<CustomSetting>
 			<UserfriendlyName>DLSS-RR - Forced Quality Level</UserfriendlyName>
 			<HexSettingID>0x10BD9423</HexSettingID>
 			<GroupName>0.1 - DLSS Override</GroupName>
@@ -435,7 +467,7 @@
 		<CustomSetting>
 			<UserfriendlyName>RTX HDR - Feature Flags</UserfriendlyName>
 			<HexSettingID>0x00432F84</HexSettingID>
-			<GroupName>5 - Common</GroupName>
+			<GroupName>0.2 - RTX HDR</GroupName>
 			<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
 			<SettingValues>
 			<CustomSettingValue>
@@ -468,7 +500,7 @@
 		<CustomSetting>
 			<UserfriendlyName>RTX HDR - Driver-Level RTX HDR Enable</UserfriendlyName>
 			<HexSettingID>0x1077A11A</HexSettingID>
-			<GroupName>5 - Common</GroupName>
+			<GroupName>0.2 - RTX HDR</GroupName>
 			<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
 			<SettingValues>
 			<CustomSettingValue>
@@ -485,7 +517,7 @@
 		<CustomSetting>
 			<UserfriendlyName>RTX HDR - Game Filters Enable</UserfriendlyName>
 			<HexSettingID>0x00980896</HexSettingID>
-			<GroupName>5 - Common</GroupName>
+			<GroupName>0.2 - RTX HDR</GroupName>
 			<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
 			<SettingValues>
 			<CustomSettingValue>
@@ -502,7 +534,7 @@
 		<CustomSetting>
 			<UserfriendlyName>RTX HDR - Enable</UserfriendlyName>
 			<HexSettingID>0x00DD48FB</HexSettingID>
-			<GroupName>5 - Common</GroupName>
+			<GroupName>0.2 - RTX HDR</GroupName>
 			<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
 			<SettingValues>
 			<CustomSettingValue>
@@ -519,28 +551,28 @@
 		<CustomSetting>
 			<UserfriendlyName>RTX HDR - Peak Brightness</UserfriendlyName>
 			<HexSettingID>0x00DD48FC</HexSettingID>
-			<GroupName>5 - Common</GroupName>
+			<GroupName>0.2 - RTX HDR</GroupName>
 			<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
 			<SettingMasks />
 		</CustomSetting>
 		<CustomSetting>
 			<UserfriendlyName>RTX HDR - Middle Grey</UserfriendlyName>
 			<HexSettingID>0x00DD48FD</HexSettingID>
-			<GroupName>5 - Common</GroupName>
+			<GroupName>0.2 - RTX HDR</GroupName>
 			<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
 			<SettingMasks />
 		</CustomSetting>
 		<CustomSetting>
 			<UserfriendlyName>RTX HDR - Contrast</UserfriendlyName>
 			<HexSettingID>0x00DD48FE</HexSettingID>
-			<GroupName>5 - Common</GroupName>
+			<GroupName>0.2 - RTX HDR</GroupName>
 			<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
 			<SettingMasks />
 		</CustomSetting>
 		<CustomSetting>
 			<UserfriendlyName>RTX HDR - Saturation</UserfriendlyName>
 			<HexSettingID>0x00DD48FF</HexSettingID>
-			<GroupName>5 - Common</GroupName>
+			<GroupName>0.2 - RTX HDR</GroupName>
 			<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
 			<SettingMasks />
 		</CustomSetting>
@@ -7559,15 +7591,34 @@
 			<SettingValues>
 				<CustomSettingValue>
 				<UserfriendlyName>MPO_INDICATOR_OFF</UserfriendlyName>
-				<HexValue>0</HexValue>
-        </CustomSettingValue>
-        <CustomSettingValue>
+				<HexValue>0x00000000</HexValue>
+				</CustomSettingValue>
+				<CustomSettingValue>
 				<UserfriendlyName>MPO_INDICATOR_ON</UserfriendlyName>
-				<HexValue>1</HexValue>
-        </CustomSettingValue>
+				<HexValue>0x00000001</HexValue>
+				</CustomSettingValue>
 			</SettingValues>
 		</CustomSetting>
-
+		<CustomSetting>
+			<UserfriendlyName>Vulkan/OpenGL present method</UserfriendlyName>
+			<HexSettingID>0x20D690F8</HexSettingID>
+			<GroupName>2 - Sync and Refresh</GroupName>
+			<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
+			<SettingValues>
+				<CustomSettingValue>
+				<UserfriendlyName>Prefer native</UserfriendlyName>
+				<HexValue>0x00000000</HexValue>
+				</CustomSettingValue>
+				<CustomSettingValue>
+				<UserfriendlyName>Prefer layered on DXGI Swapchain</UserfriendlyName>
+				<HexValue>0x00000001</HexValue>
+				</CustomSettingValue>
+				<CustomSettingValue>
+				<UserfriendlyName>Auto</UserfriendlyName>
+				<HexValue>0x00000002</HexValue>
+				</CustomSettingValue>
+			</SettingValues>
+		</CustomSetting>
 		<!--<CustomSetting>
       <UserfriendlyName>StereoProfile</UserfriendlyName>
       <HexSettingID>0x701EB457</HexSettingID>

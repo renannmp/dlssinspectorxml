@@ -1,3 +1,5 @@
+**Apesar desse método novo, ainda prefiro usar o NVIDIA Profile Inspector, pois com ele não altera nenhum arquivo da NVIDIA e é mais seguro, mas vou deixar isso como alternativa pra quem quer.**
+
 Atualmente, o app da Nvidia usa uma whitelist para ativar as opções de DLSS Override (Sobreposição de DLSS) nas configurações dos jogos.
 
 Lembre-se de que isso apenas ativa a configuração de override no driver para qualquer jogo, até mesmo para aqueles sem DLSS. Se ativar em um jogo que não tem DLSS, simplesmente não fará nada. Isso **não** adiciona DLSS magicamente a um jogo que não o suporta.  

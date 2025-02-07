@@ -7618,6 +7618,21 @@
 				<HexValue>0x00000002</HexValue>
 				</CustomSettingValue>
 			</SettingValues>
+		</CustomSetting>	
+		<CustomSetting>
+			<UserfriendlyName>OGL_DX_PRESENT_DEBUG</UserfriendlyName>
+			<HexSettingID>0x20324987</HexSettingID>
+			<GroupName>8 - Extra</GroupName>
+			<SettingValues>
+				<CustomSettingValue>
+				<UserfriendlyName>Off</UserfriendlyName>
+				<HexValue>0x00000000</HexValue>
+				</CustomSettingValue>
+				<CustomSettingValue>
+				<UserfriendlyName>Promote all Vulkan present to DXGI</UserfriendlyName>
+				<HexValue>0x000802A5</HexValue>
+				</CustomSettingValue>
+			</SettingValues>
 		</CustomSetting>
 		<!--<CustomSetting>
       <UserfriendlyName>StereoProfile</UserfriendlyName>

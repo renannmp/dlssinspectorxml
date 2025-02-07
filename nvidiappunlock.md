@@ -11,7 +11,7 @@ Lembre-se de que isso apenas ativa a configuração de override no driver para q
    **C:\Users(seu usuário)\AppData\Local\NVIDIA Corporation\NVIDIA app\NvBackend**  
 3. Faça um backup do arquivo **ApplicationStorage.json**.  
 4. Abra o **ApplicationStorage.json** em um editor de texto, como VS Code ou Notepad++. Pode ser útil formatar o JSON para facilitar a edição.  
-5. Encontre o jogo onde quer ativar o DLSS Override (use a pesquisa pelo nome do jogo na seção "Gráficos" do Nvidia App).  
+5. Encontre o jogo onde quer ativar o DLSS Override (use a pesquisa pelo nome do jogo na seção "Graphics" do Nvidia App).  
 6. Localize as seguintes linhas na seção **Application** do jogo no arquivo:  
 
    ```json

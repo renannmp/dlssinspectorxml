@@ -7559,11 +7559,11 @@
 			<SettingValues>
 				<CustomSettingValue>
 				<UserfriendlyName>MPO_INDICATOR_OFF</UserfriendlyName>
-				<HexValue>0</HexValue>
+				<HexValue>0x00000000</HexValue>
         </CustomSettingValue>
         <CustomSettingValue>
 				<UserfriendlyName>MPO_INDICATOR_ON</UserfriendlyName>
-				<HexValue>1</HexValue>
+				<HexValue>0x00000001</HexValue>
         </CustomSettingValue>
 			</SettingValues>
 		</CustomSetting>

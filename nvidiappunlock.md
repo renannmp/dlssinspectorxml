@@ -1,4 +1,9 @@
-**Apesar desse método novo, ainda prefiro usar o NVIDIA Profile Inspector, pois com ele não altera nenhum arquivo da NVIDIA e é mais seguro, mas vou deixar isso como alternativa pra quem quer.**
+## Ferramenta
+
+Foi desenvolvido uma ferramenta para facilitar todo o processo, funciona com simplesmente 1 clique. [Baixe ela aqui no repositório github](https://github.com/kaanaldemir/DLSS-Override-For-All-Games)
+
+
+## Manualmente
 
 Atualmente, o app da Nvidia usa uma whitelist para ativar as opções de DLSS Override (Sobreposição de DLSS) nas configurações dos jogos.
 
@@ -30,7 +35,3 @@ Lembre-se de que isso apenas ativa a configuração de override no driver para q
 Agora você pode usar o **DLSS Override** em um jogo que tenha DLSS, mas não esteja na whitelist da NVIDIA.  
 
 **Observação:** Como o arquivo ficou "somente leitura", se quiser adicionar outro jogo depois, precisará remover essa restrição, editar novamente e repetir o processo.
-
-## Ferramenta
-
-Foi desenvolvido uma ferramenta para facilitar todo o processo, funciona com simplesmente 1 clique. [Baixe ela aqui no repositório github](https://github.com/kaanaldemir/DLSS-Override-For-All-Games)

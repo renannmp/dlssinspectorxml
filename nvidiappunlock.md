@@ -31,26 +31,6 @@ Agora você pode usar o **DLSS Override** em um jogo que tenha DLSS, mas não es
 
 **Observação:** Como o arquivo ficou "somente leitura", se quiser adicionar outro jogo depois, precisará remover essa restrição, editar novamente e repetir o processo.
 
-## EXTRA
+## Ferramenta
 
-Script para fazer o processo automáticamente: [Baixe aqui](https://github.com/renannmp/dlssinspectorxml/releases/download/1.0-Script/NVIDIA.App.Unlock.7z)
-
-Para usar, execute o "RunScript.bat" como administrador.
-
-**O que o script faz:**
-
-1- Remove a propriedade "Somente leitura" do arquivo ApplicationStorage.json.
-
-2- Abre o Nvidia App, permitindo que o usuário faça as alterações necessárias, e aguarda o programa ser fechado.
-
-3- Edita o ApplicationStorage.json para remover as restrições impostas pelo Nvidia App.
-
-4- Define o arquivo como "Somente leitura" novamente.
-
-5- Reinicia dois serviços da Nvidia (isso requer privilégios de administrador). Se não rodar como admin, será necessário reiniciar o PC para aplicar as mudanças.
-
-**Avisos importantes!**
-
-O script precisa ser executado como administrador para reiniciar os serviços da Nvidia.
-
-A tela pode piscar ou ficar preta duas vezes quando os serviços da Nvidia forem reiniciados.
+Foi desenvolvido uma ferramenta para facilitar todo o processo, funciona com simplesmente 1 clique. [Baixe ela aqui no repositório github](https://github.com/kaanaldemir/DLSS-Override-For-All-Games)

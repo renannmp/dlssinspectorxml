@@ -1,13 +1,10 @@
-## DRIVER 572.42+
-
-A partir do driver 572.42, utilize um novo script que pode ser obtido [aqui](https://files.sshnuke.net/SearchReplaceNvidiaApp.exe) e você pode encontrar o script pra ler todo o código [aqui](https://gist.github.com/rajkosto/6bb60346d8a7f7f4e21566618e44020a). Adicione o jogo no NVIDIA App e depois rode o script, terá que fazer o processo toda vez que adicionar um jogo ao NVIDIA App.
-
-# O MÉTODO ABAIXO NÃO FUNCIONA MAIS A PARTIR DO DRIVER 572.42
-
 ## Ferramenta
 
 Foi desenvolvido uma ferramenta para facilitar todo o processo, funciona com simplesmente 1 clique. [Baixe ela aqui no repositório github](https://github.com/kaanaldemir/DLSS-Override-For-All-Games)
 
+## Método Alternativo
+
+Utilize um novo script que pode ser obtido [aqui](https://files.sshnuke.net/SearchReplaceNvidiaApp.exe) e você pode encontrar o script pra ler todo o código [aqui](https://gist.github.com/rajkosto/6bb60346d8a7f7f4e21566618e44020a). Adicione o jogo no NVIDIA App e depois rode o script, terá que fazer o processo toda vez que adicionar um jogo ao NVIDIA App.
 
 ## Manualmente
 

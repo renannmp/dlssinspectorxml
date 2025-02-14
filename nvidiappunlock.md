@@ -3,7 +3,7 @@ A partir do driver 572.42, utilize um novo script que pode ser obtido [aqui](htt
 
 
 
-**O MÉTODO ABAIXO NÃO FUNCIONA MAIS A PARTIR DO DRIVER 572.42**
+# O MÉTODO ABAIXO NÃO FUNCIONA MAIS A PARTIR DO DRIVER 572.42
 
 ## Ferramenta
 

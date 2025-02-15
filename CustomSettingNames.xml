@@ -488,7 +488,7 @@
 			<UserfriendlyName>RTX HDR - Driver Flags</UserfriendlyName>
 			<Description>Allows reducing deband strength to preserve details &amp; enable indicator.&#xD;&#xA;When any driver flags are set HDR will be applied via driver instead of through NVOverlay (driver doesn't support customizing brightness/contrast/saturation)</Description>
 			<HexSettingID>0x00432F84</HexSettingID>
-			<GroupName>02 - RTX HDR</GroupName>
+			<GroupName>5 - Common</GroupName>
 			<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
 			<SettingValues>
 				<CustomSettingValue>
@@ -521,7 +521,7 @@
 		<CustomSetting>
 			<UserfriendlyName>RTX HDR - Enable</UserfriendlyName>
 			<HexSettingID>0x00DD48FB</HexSettingID>
-			<GroupName>02 - RTX HDR</GroupName>
+			<GroupName>5 - Common</GroupName>
 			<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
 			<SettingValues>
 				<CustomSettingValue>
@@ -538,35 +538,35 @@
 		<CustomSetting>
 			<UserfriendlyName>RTX HDR - Peak Brightness</UserfriendlyName>
 			<HexSettingID>0x00DD48FC</HexSettingID>
-			<GroupName>02 - RTX HDR</GroupName>
+			<GroupName>5 - Common</GroupName>
 			<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
 			<SettingMasks />
 		</CustomSetting>
 		<CustomSetting>
 			<UserfriendlyName>RTX HDR - Middle Grey</UserfriendlyName>
 			<HexSettingID>0x00DD48FD</HexSettingID>
-			<GroupName>02 - RTX HDR</GroupName>
+			<GroupName>5 - Common</GroupName>
 			<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
 			<SettingMasks />
 		</CustomSetting>
 		<CustomSetting>
 			<UserfriendlyName>RTX HDR - Contrast</UserfriendlyName>
 			<HexSettingID>0x00DD48FE</HexSettingID>
-			<GroupName>02 - RTX HDR</GroupName>
+			<GroupName>5 - Common</GroupName>
 			<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
 			<SettingMasks />
 		</CustomSetting>
 		<CustomSetting>
 			<UserfriendlyName>RTX HDR - Saturation</UserfriendlyName>
 			<HexSettingID>0x00DD48FF</HexSettingID>
-			<GroupName>02 - RTX HDR</GroupName>
+			<GroupName>5 - Common</GroupName>
 			<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
 			<SettingMasks />
 		</CustomSetting>
 		<CustomSetting>
 			<UserfriendlyName>RTX Digital Vibrance - Enable</UserfriendlyName>
 			<HexSettingID>0x00980880</HexSettingID>
-			<GroupName>02 - RTX HDR</GroupName>
+			<GroupName>5 - Common</GroupName>
 			<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
 			<SettingValues>
 				<CustomSettingValue>
@@ -583,14 +583,14 @@
 		<CustomSetting>
 			<UserfriendlyName>RTX Digital Vibrance - Saturation Boost</UserfriendlyName>
 			<HexSettingID>0x00ABAB13</HexSettingID>
-			<GroupName>02 - RTX HDR</GroupName>
+			<GroupName>5 - Common</GroupName>
 			<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
 			<SettingMasks />
 		</CustomSetting>
 		<CustomSetting>
 			<UserfriendlyName>RTX Digital Vibrance - Intensity</UserfriendlyName>
 			<HexSettingID>0x00ABAB22</HexSettingID>
-			<GroupName>02 - RTX HDR</GroupName>
+			<GroupName>5 - Common</GroupName>
 			<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
 			<SettingMasks />
 		</CustomSetting>
@@ -7514,6 +7514,25 @@
 			</SettingValues>
 			<SettingMasks />
 		</CustomSetting>
+	 	<CustomSetting>
+			<UserfriendlyName>CUDA - Sysmem Fallback Policy</UserfriendlyName>
+			<HexSettingID>0x10ECECC9</HexSettingID>
+			<GroupName>5 - Common</GroupName>
+			<SettingValues>
+				<CustomSettingValue>
+				<UserfriendlyName>Default</UserfriendlyName>
+				<HexValue>0x00000000</HexValue>
+				</CustomSettingValue>
+				<CustomSettingValue>
+				<UserfriendlyName>Prefer no sysmem fallback</UserfriendlyName>
+				<HexValue>0x00000001</HexValue>
+				</CustomSettingValue>
+				<CustomSettingValue>
+				<UserfriendlyName>Prefer sysmem fallback</UserfriendlyName>
+				<HexValue>0x00000002</HexValue>
+				</CustomSettingValue>
+			</SettingValues>
+		</CustomSetting>
 		<CustomSetting>
 			<UserfriendlyName>Extension Limit (OGL)</UserfriendlyName>
 			<HexSettingID>0x20FF7493</HexSettingID>
@@ -7609,11 +7628,11 @@
 			<SettingValues>
 				<CustomSettingValue>
 				<UserfriendlyName>MPO_INDICATOR_OFF</UserfriendlyName>
-				<HexValue>0</HexValue>
+				<HexValue>0x00000000</HexValue>
         </CustomSettingValue>
         <CustomSettingValue>
 				<UserfriendlyName>MPO_INDICATOR_ON</UserfriendlyName>
-				<HexValue>1</HexValue>
+				<HexValue>0x00000001</HexValue>
         </CustomSettingValue>
 			</SettingValues>
 		</CustomSetting>
@@ -7636,7 +7655,7 @@
 				<HexValue>0x00000002</HexValue>
 				</CustomSettingValue>
 			</SettingValues>
-		</CustomSetting>	
+		</CustomSetting>
 		<CustomSetting>
 			<UserfriendlyName>OGL_DX_PRESENT_DEBUG</UserfriendlyName>
 			<HexSettingID>0x20324987</HexSettingID>
@@ -7652,25 +7671,7 @@
 				</CustomSettingValue>
 			</SettingValues>
 		</CustomSetting>
-		<CustomSetting>
-			<UserfriendlyName>CUDA - Sysmem Fallback Policy</UserfriendlyName>
-			<HexSettingID>0x10ECECC9</HexSettingID>
-			<GroupName>5 - Common</GroupName>
-			<SettingValues>
-				<CustomSettingValue>
-				<UserfriendlyName>Default</UserfriendlyName>
-				<HexValue>0x00000000</HexValue>
-				</CustomSettingValue>
-				<CustomSettingValue>
-				<UserfriendlyName>Prefer no sysmem fallback</UserfriendlyName>
-				<HexValue>0x00000001</HexValue>
-				</CustomSettingValue>
-				<CustomSettingValue>
-				<UserfriendlyName>Prefer sysmem fallback</UserfriendlyName>
-				<HexValue>0x00000002</HexValue>
-				</CustomSettingValue>
-			</SettingValues>
-		</CustomSetting>
+
 		<!--<CustomSetting>
       <UserfriendlyName>StereoProfile</UserfriendlyName>
       <HexSettingID>0x701EB457</HexSettingID>

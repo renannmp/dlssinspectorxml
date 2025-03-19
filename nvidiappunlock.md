@@ -1,10 +1,6 @@
-## Ferramenta
+## Método Principal
 
-Foi desenvolvido uma ferramenta para facilitar todo o processo, funciona com simplesmente 1 clique. [Baixe ela aqui no repositório github](https://github.com/kaanaldemir/DLSS-Override-For-All-Games)
-
-## Método Alternativo
-
-Utilize um novo script que pode ser obtido [aqui](https://files.sshnuke.net/SearchReplaceNvidiaApp.exe) e você pode encontrar o script pra ler todo o código [aqui](https://gist.github.com/rajkosto/6bb60346d8a7f7f4e21566618e44020a). Adicione o jogo no NVIDIA App e depois rode o script, terá que fazer o processo toda vez que adicionar um jogo ao NVIDIA App.
+Utilize um novo script que pode ser obtido [aqui](https://gist.github.com/JPersson77/91a5c53af55104a2bfc5c9be32118203/archive/96aa9bb060e2b038e8d1853aa962f0ac529ba754.zip) e você pode encontrar o script pra ler todo o código [aqui](https://gist.github.com/JPersson77/91a5c53af55104a2bfc5c9be32118203#file-nvappappapp-ps1). Adicione o jogo no NVIDIA App e depois rode o script, terá que fazer o processo toda vez que adicionar um jogo ao NVIDIA App.
 
 ## Manualmente
 

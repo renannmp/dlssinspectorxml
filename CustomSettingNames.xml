@@ -4,7 +4,7 @@
 		<CustomSetting>
 			<UserfriendlyName>DLSS - Enable DLL Override</UserfriendlyName>
 			<HexSettingID>0x10E41E01</HexSettingID>
-			<GroupName>01 - DLSS Override</GroupName>
+			<GroupName>0.1 - DLSS Override</GroupName>
 			<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
 			<SettingValues>
 				<CustomSettingValue>
@@ -21,7 +21,7 @@
 		<CustomSetting>
 			<UserfriendlyName>DLSS-RR - Enable DLL Override</UserfriendlyName>
 			<HexSettingID>0x10E41E02</HexSettingID>
-			<GroupName>01 - DLSS Override</GroupName>
+			<GroupName>0.1 - DLSS Override</GroupName>
 			<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
 			<SettingValues>
 				<CustomSettingValue>
@@ -38,7 +38,7 @@
 		<CustomSetting>
 			<UserfriendlyName>DLSS-FG - Enable DLL Override</UserfriendlyName>
 			<HexSettingID>0x10E41E03</HexSettingID>
-			<GroupName>01 - DLSS Override</GroupName>
+			<GroupName>0.1 - DLSS Override</GroupName>
 			<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
 			<SettingValues>
 				<CustomSettingValue>
@@ -55,7 +55,7 @@
 		<CustomSetting>
 			<UserfriendlyName>DLSS - Forced Preset Letter</UserfriendlyName>
 			<HexSettingID>0x10E41DF3</HexSettingID>
-			<GroupName>01 - DLSS Override</GroupName>
+			<GroupName>0.1 - DLSS Override</GroupName>
 			<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
 			<SettingValues>
 				<CustomSettingValue>
@@ -132,7 +132,7 @@
 		<CustomSetting>
 			<UserfriendlyName>DLSS-RR - Forced Preset Letter</UserfriendlyName>
 			<HexSettingID>0x10E41DF7</HexSettingID>
-			<GroupName>01 - DLSS Override</GroupName>
+			<GroupName>0.1 - DLSS Override</GroupName>
 			<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
 			<SettingValues>
 				<CustomSettingValue>
@@ -252,7 +252,7 @@
 		<CustomSetting>
 			<UserfriendlyName>DLSS - Forced Quality Level</UserfriendlyName>
 			<HexSettingID>0x10AFB768</HexSettingID>
-			<GroupName>01 - DLSS Override</GroupName>
+			<GroupName>0.1 - DLSS Override</GroupName>
 			<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
 			<SettingValues>
 				<CustomSettingValue>
@@ -280,7 +280,7 @@
 					<HexValue>0x00000005</HexValue>
 				</CustomSettingValue>
 				<CustomSettingValue>
-					<UserfriendlyName>Custom (pre-571 drivers only)</UserfriendlyName>
+					<UserfriendlyName>Custom</UserfriendlyName>
 					<HexValue>0x00000006</HexValue>
 				</CustomSettingValue>
 			</SettingValues>
@@ -289,7 +289,7 @@
 		<CustomSetting>
 			<UserfriendlyName>DLSS-RR - Forced Quality Level</UserfriendlyName>
 			<HexSettingID>0x10BD9423</HexSettingID>
-			<GroupName>01 - DLSS Override</GroupName>
+			<GroupName>0.1 - DLSS Override</GroupName>
 			<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
 			<SettingValues>
 				<CustomSettingValue>
@@ -326,7 +326,7 @@
 		<CustomSetting>
 			<UserfriendlyName>DLSS - Forced Scaling Ratio (needs 'forced quality level: custom')</UserfriendlyName>
 			<HexSettingID>0x10E41DF5</HexSettingID>
-			<GroupName>01 - DLSS Override</GroupName>
+			<GroupName>0.1 - DLSS Override</GroupName>
 			<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
 			<SettingValues>
 				<CustomSettingValue>
@@ -510,7 +510,7 @@
 					<HexValue>0x0000004C</HexValue>
 				</CustomSettingValue>
 				<CustomSettingValue>
-					<UserfriendlyName>77%</UserfriendlyName>
+					<UserfriendlyName>77% (UltraQuality)</UserfriendlyName>
 					<HexValue>0x0000004D</HexValue>
 				</CustomSettingValue>
 				<CustomSettingValue>
@@ -611,7 +611,7 @@
 		<CustomSetting>
 			<UserfriendlyName>DLSS-RR - Forced Scaling Ratio (needs 'forced quality level: custom')</UserfriendlyName>
 			<HexSettingID>0x10C7D4A2</HexSettingID>
-			<GroupName>01 - DLSS Override</GroupName>
+			<GroupName>0.1 - DLSS Override</GroupName>
 			<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
 			<SettingValues>
 				<CustomSettingValue>
@@ -795,7 +795,7 @@
 					<HexValue>0x0000004C</HexValue>
 				</CustomSettingValue>
 				<CustomSettingValue>
-					<UserfriendlyName>77% (Ultra Quality)</UserfriendlyName>
+					<UserfriendlyName>77% (UltraQuality)</UserfriendlyName>
 					<HexValue>0x0000004D</HexValue>
 				</CustomSettingValue>
 				<CustomSettingValue>
@@ -896,7 +896,7 @@
 		<CustomSetting>
 			<UserfriendlyName>DLSS-FG - Multi-Frame-Generation Count</UserfriendlyName>
 			<HexSettingID>0x104D6667</HexSettingID>
-			<GroupName>01 - DLSS Override</GroupName>
+			<GroupName>0.1 - DLSS Override</GroupName>
 			<OverrideDefault>0x00000000</OverrideDefault>
 			<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
 			<SettingValues>

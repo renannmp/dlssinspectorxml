@@ -12,9 +12,9 @@ Alguns jogos que tiveram melhoria na estabilidade atualizando as DLLs do DStorag
 Em qualquer das duas opções, vá até a pasta do jogo e pesquise por D3D12Core.dll e dstorage.dll, se o jogo tiver somente a dstorage.dll vai funcionar somente no Windows 11, se o jogo tiver as 4 DLLs, substitua todas elas. Você pode sim substituir a dstorage.dll e dstoragecore.dll no Windows 10 se o jogo tiver somente ela, mas não é 100% certeza de que o jogo vá utilizar a tecnologia.
 Você vai encontrar essas DLLs na pasta do jogo, e a mais recente, aqui no repositório ou no oficial da Microsoft.
 
-Repositório Microsoft DirectStorage -> https://www.nuget.org/packages/Microsoft.Direct3D.DirectStorage#versions-body-tab
+Repositório Microsoft DirectStorage -> [Clique aqui](https://www.nuget.org/packages/Microsoft.Direct3D.DirectStorage#versions-body-tab)
 
-Repositório Microsoft DirectStorage Agility (Windows 10) -> https://www.nuget.org/packages/Microsoft.Direct3D.D3D12/1.615.0#versions-body-tab
+Repositório Microsoft DirectStorage Agility (Windows 10) -> [Clique aqui](https://www.nuget.org/packages/Microsoft.Direct3D.D3D12/1.615.0#versions-body-tab)
 
 
 ## Em resumo

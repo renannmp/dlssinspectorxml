@@ -15,6 +15,7 @@ Você vai encontrar essas DLLs na pasta do jogo, e a mais recente, aqui no repos
 
 ## Em resumo
 **dstorage.dll** e **dstoragecore.dll** são as DLLs para o DirectStorage no Windows 11.
+
 **D3D12Core.dll** e **D3D12SDKLayers.dll** são as DLLs que fazem o suporte chegar no Windows 10.
 
 Se o jogo tiver as 4, substitua todas, caso contrário, substitua apenas as que o jogo possui.

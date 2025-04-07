@@ -1,8 +1,11 @@
-## DirectStorage e DirectStorage Agility
+## O que faz o DirectStorage?
 
 Breve vídeo do que significa o DirectStorage, tecnologia que está presente nos consoles a bastante tempo e que só agora tá vindo no PC em alguns jogos -> https://www.youtube.com/watch?v=E35aClzXZBI
 
 A partir da versão 1.2, ela também ajuda os HDs e não só SSDs.
+
+# DirectStorage e DirectStorage Agility
+
 
 Jogos que utilizam da tecnologia DirectStorage, podem ter suas DLLs atualizadas para a mais recente também, existe relatos de que a atualização dessas DLLs resolvem muitos problemas de stuttering quando o jogo usa uma versão mais antiga. 
 Alguns jogos que tiveram melhoria na estabilidade atualizando as DLLs do DStorage são: Monster Hunter: Wilds, GTA V: Enhanced, Final Fantasy VII Rebirth, Diablo IV.
@@ -21,7 +24,7 @@ Repositório Microsoft DirectStorage -> [Clique aqui](https://www.nuget.org/pack
 Repositório Microsoft DirectStorage Agility (Windows 10) -> [Clique aqui](https://www.nuget.org/packages/Microsoft.Direct3D.D3D12/1.615.0#versions-body-tab)
 
 
-## Em resumo
+# Em resumo
 **dstorage.dll** e **dstoragecore.dll** são as DLLs para o DirectStorage no Windows 11.
 
 **D3D12Core.dll** e **D3D12SDKLayers.dll** são as DLLs que fazem o suporte chegar no Windows 10.

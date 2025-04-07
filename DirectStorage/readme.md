@@ -2,7 +2,7 @@
 
 Breve vídeo do que significa o DirectStorage, tecnologia que está presente nos consoles a bastante tempo e que só agora tá vindo no PC em alguns jogos -> https://www.youtube.com/watch?v=E35aClzXZBI
 
-A partir da versão 1.2, ela também ajuda os HDs e não só SSDs.
+A partir da versão 1.2, ela também ajuda os HDs e não só SSDs em carregamentos de textura.
 
 # DirectStorage e DirectStorage Agility
 

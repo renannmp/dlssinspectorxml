@@ -25,6 +25,8 @@ Repositório Microsoft DirectStorage Agility (Windows 10) -> [Clique aqui](https
 
 
 # Em resumo
+Procura pelas DLLs na pasta do jogo, usando a pesquisa do Windows Explorer, se o jogo tiver as 4, faça um backup delas renomeando para .bak e jogue as novas lá no lugar delas.
+
 **dstorage.dll** e **dstoragecore.dll** são as DLLs para o DirectStorage no Windows 11.
 
 **D3D12Core.dll** e **D3D12SDKLayers.dll** são as DLLs que fazem o suporte chegar no Windows 10.

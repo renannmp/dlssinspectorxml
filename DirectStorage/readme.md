@@ -13,7 +13,7 @@ Alguns jogos que tiveram melhoria na estabilidade atualizando as DLLs do DStorag
 
 **Para o Windows 11**: Essas são as DLLs que podem ser atualizadas, dstorage.dll e dstoragecore.dll, o jogo precisa ter elas nas pasta, ou seja, já com suporte, porém antigo.
 
-**Para o Windows 10**: O jogo precisa usar o DirectX Agility SDK e as DLLs D3D12Core.dll, D3D12SDKLayers.dll precisam estar presentes na pasta do jogo, sem elas, o DirectStorage não é compatível com o Windows 10. (Só vi elas no Final Fantasy Rebirth).
+**Para o Windows 10**: O jogo precisa usar o DirectX Agility SDK e as DLLs D3D12Core.dll, D3D12SDKLayers.dll precisam estar presentes na pasta do jogo, sem elas, o DirectStorage não é compatível com o Windows 10.
 
 
 Em qualquer das duas opções, vá até a pasta do jogo e pesquise por D3D12Core.dll e dstorage.dll, se o jogo tiver somente a dstorage.dll vai funcionar somente no Windows 11, se o jogo tiver as 4 DLLs, substitua todas elas. Você pode sim substituir a dstorage.dll e dstoragecore.dll no Windows 10 se o jogo tiver somente ela, mas não é 100% certeza de que o jogo vá utilizar a tecnologia.

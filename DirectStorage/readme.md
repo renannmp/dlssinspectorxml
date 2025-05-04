@@ -32,4 +32,4 @@ Se o jogo tiver as 4, substitua todas, caso contrário, substitua apenas as que 
 
 Repositório Microsoft DirectStorage -> [Clique aqui](https://www.nuget.org/packages/Microsoft.Direct3D.DirectStorage#versions-body-tab)
 
-Repositório Microsoft DirectX 12 Agility -> [Clique aqui](https://www.nuget.org/packages/Microsoft.Direct3D.D3D12/1.615.0#versions-body-tab)
+Repositório Microsoft DirectX 12 Agility -> [Clique aqui](https://www.nuget.org/packages/Microsoft.Direct3D.D3D12#versions-body-tab)

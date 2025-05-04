@@ -26,7 +26,7 @@ Se o jogo tiver as 4, substitua todas, caso contrário, substitua apenas as que 
 
 
 # Downloads
-**DLLs atualizadas** -> [Clique aqui](https://github.com/renannmp/dlssinspectorxml/raw/main/DirectStorage/DirectStorage%201.2.4%20%2B%20DirectX%2012%20Agility%201.615.1%20DLLs.7z)
+**DLLs atualizadas** -> [Clique aqui](https://github.com/renannmp/dlssinspectorxml/raw/main/DirectStorage/DirectStorage%201.2.4%20%2B%20DirectX%2012%20Agility%201.716.1%20DLLs.7z.7z)
 
 **Repositórios Oficiais**:
 

@@ -14,10 +14,6 @@ Alguns jogos que tiveram melhoria na estabilidade atualizando as DLLs do DStorag
 Vá até a pasta do jogo e pesquise por D3D12Core.dll e dstorage.dll, se o jogo tiver as 4 DLLs, substitua todas elas.
 Você vai encontrar essas DLLs na pasta do jogo, e a mais recente, aqui no repositório ou no oficial da Microsoft.
 
-Repositório Microsoft DirectStorage -> [Clique aqui](https://www.nuget.org/packages/Microsoft.Direct3D.DirectStorage#versions-body-tab)
-
-Repositório Microsoft DirectX 12 Agility -> [Clique aqui](https://www.nuget.org/packages/Microsoft.Direct3D.D3D12/1.615.0#versions-body-tab)
-
 
 # Em resumo
 Procure pelas DLLs na pasta do jogo, usando a pesquisa do Windows Explorer, se o jogo tiver as 4, faça um backup delas renomeando para .bak e jogue as novas lá no lugar delas.
@@ -27,3 +23,13 @@ Procure pelas DLLs na pasta do jogo, usando a pesquisa do Windows Explorer, se o
 **D3D12Core.dll** e **D3D12SDKLayers.dll** são as DLLs do DirectX 12 Agility.
 
 Se o jogo tiver as 4, substitua todas, caso contrário, substitua apenas as que o jogo possui.
+
+
+# Downloads
+**DLLs atualizadas** -> [Clique aqui](https://github.com/renannmp/dlssinspectorxml/raw/main/DirectStorage/DirectStorage%201.2.4%20%2B%20DirectX%2012%20Agility%201.615.1%20DLLs.7z)
+
+**Repositórios Oficiais**:
+
+Repositório Microsoft DirectStorage -> [Clique aqui](https://www.nuget.org/packages/Microsoft.Direct3D.DirectStorage#versions-body-tab)
+
+Repositório Microsoft DirectX 12 Agility -> [Clique aqui](https://www.nuget.org/packages/Microsoft.Direct3D.D3D12/1.615.0#versions-body-tab)

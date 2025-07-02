@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e2a5ac73-8e3d-41a3-b067-3b3edd8790df)# NVIDIA Profile Inspector XML
+# NVIDIA Profile Inspector XML
 
 XML com funcionalidades extras para o Profile Inspector como a Sobreposição do DLSS, que te dá liberdade para testar forçar em qualquer jogo não validado pela NVIDIA.
 
@@ -27,4 +27,5 @@ As funcionalidades adicionadas ao NVIDIA App podem ser forçadas em qualquer jog
 Algumas observações, mudar a mesma opção no NVIDIA App e no Inspector pode causar conflito, o ideal é usar apenas um dos dois para essas funções. O NVIDIA App suporta apenas jogos validados pela NVIDIA, com o Inspector, você pode testar em tudo.
 
 ## Sobreposição Global de DLSS em qualquer jogo
+![image](https://github.com/user-attachments/assets/e2a5ac73-8e3d-41a3-b067-3b3edd8790df)
 Veja como fazer [aqui](https://github.com/renannmp/dlssinspectorxml/blob/main/globaloverride.md)

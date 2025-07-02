@@ -33,3 +33,14 @@ A caixa **"Let users decide DLSS Overridden by latest available"** serve para qu
 A caixa **"Show DLSS Indicator"** ativa o overlay do DLSS no jogo, alterando o registro (o mesmo que faz o DLSS Overlay Toggle)
 
 Minha recomendação é deixar igual ao da screenshot acima, apenas desmarcar o Show DLSS Indicator depois que confirmar que funcionou.
+
+
+## Qual o ganho?
+
+Com as DLLs substituidas, em jogos que suportam puxar essas DLLs Streamline mais recentes, ganharão: 
+
+Jogos com suporte ao Frame Generation ganharão o suporte ao Multi-Frame-Generation forçando pelo NVIDIA Profile Inspector;
+
+NVIDIA Reflex melhora consideravelmente; 
+
+Melhor tempo de quadro e fluidez com as tecnologias NVIDIA.

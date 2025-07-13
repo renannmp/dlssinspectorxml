@@ -13,11 +13,18 @@ Link -> https://github.com/SimonMacer/AnWave/releases/tag/AnWave-DLSS
 
 Crie uma pasta separada e coloque o executável nela **JUNTO** com as 3 DLLs (nvngx_dlss.dll, nvngx_dlssg.dll e nvngx_dlssd.dll), e **TODAS** as Streamline DLLs (sl.reflex.dll, sl.pcl.dll, sl.nvperf.dll, sl.nis.dll, sl.interposer.dll, sl.deepdvc.dll, sl.common.dll, nvngx_deepdvc.dll).
 
-Preparei o pacote com essas streamline dlls na versão mais recente (2.8.0) pra download aqui -> https://github.com/renannmp/dlssinspectorxml/raw/main/Streamline%202.8.0.7z
+**Links para download das DLLs:**
 
-A versão das DLLs nvngx_dlss usem a mais recente que tiver, e atualizem sempre que quiserem, a mais recente disponível hoje é a 310.3.0!
+DLSS-SR: https://www.techpowerup.com/download/nvidia-dlss-dll/
+
+DLSS-FG: https://www.techpowerup.com/download/nvidia-dlss-3-frame-generation-dll/
+
+DLSS-RR: https://www.techpowerup.com/download/nvidia-dlss-3-ray-reconstruction-dll/
+
+Streamline: [https://github.com/NVIDIA-RTX/Streamline](https://github.com/NVIDIA-RTX/Streamline/releases)
 
 ![Screenshot](https://i.imgur.com/HDwGDO2.png)
+
 
 Com todas as dlls na pasta, execute a ferramenta.
 

@@ -17,7 +17,7 @@ Procure pelas DLLs na pasta do jogo, usando a pesquisa do Windows Explorer, faç
 
 
 # Downloads
-**DLLs atualizadas** -> [Clique aqui](https://github.com/renannmp/dlssinspectorxml/raw/main/DirectStorage/DirectStorage%201.2.4%20DLLs.7z)
+**DLLs v1.3.0** -> [Clique aqui](https://github.com/renannmp/dlssinspectorxml/raw/main/DirectStorage/DirectStorage%201.3.0%20DLL.zip)
 
 **Repositórios Oficiais**:
 

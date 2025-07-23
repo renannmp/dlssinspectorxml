@@ -6,7 +6,7 @@ Essa API melhora a experiência de jogos no PC, especialmente em títulos que ex
 
 A partir da versão 1.2, ela também ajuda os HDs e não só SSDs em carregamentos de textura.
 
-# DirectStorage
+# Como atualizar?
 
 
 Jogos que utilizam da tecnologia DirectStorage, podem ter suas DLLs atualizadas para a mais recente também, existe relatos de que a atualização dessas DLLs resolvem muitos problemas de stuttering quando o jogo usa uma versão mais antiga. 

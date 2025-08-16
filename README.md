@@ -26,7 +26,7 @@ As funcionalidades adicionadas ao NVIDIA App podem ser forçadas em qualquer jog
 
 Algumas observações, mudar a mesma opção no NVIDIA App e no Inspector pode causar conflito, o ideal é usar apenas um dos dois para essas funções. O NVIDIA App suporta apenas jogos validados pela NVIDIA, com o Inspector, você pode testar em tudo.
 
-## Sobreposição Global de DLSS em qualquer jogo
-![image](https://github.com/user-attachments/assets/e2a5ac73-8e3d-41a3-b067-3b3edd8790df)
+## Sobreposição Global de DLSS através do driver em qualquer jogo
+![image](https://i.imgur.com/qSoSCey.png)
 
 Veja como fazer [aqui](https://github.com/renannmp/dlssinspectorxml/blob/main/globaloverride.md)

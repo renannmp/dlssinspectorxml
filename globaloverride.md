@@ -11,31 +11,13 @@ Baixe a última versão dessa ferramenta (nvidiaDlssGlom.exe) no repositório do
 
 Link -> https://github.com/SimonMacer/AnWave/releases/tag/AnWave-DLSS
 
-Crie uma pasta separada e coloque o executável nela **JUNTO** com as 3 DLLs (nvngx_dlss.dll, nvngx_dlssg.dll e nvngx_dlssd.dll), e **TODAS** as Streamline DLLs (sl.reflex.dll, sl.pcl.dll, sl.nvperf.dll, sl.nis.dll, sl.interposer.dll, sl.deepdvc.dll, sl.common.dll, nvngx_deepdvc.dll).
+Na nova versão, é possível fazer a ferramenta baixar os arquivos necessários direto dos servidores da NVIDIA, apenas inicie ela e marque "Enable NVIDIA Streamline Override Mode" e clique em "Download from server"
 
-**Links para download das DLLs:**
+![Screenshot](https://i.imgur.com/qSoSCey.png)
 
-DLSS-SR: https://www.techpowerup.com/download/nvidia-dlss-dll/
+Marque a caixa **"Enable NVIDIA Streamline Override Mode"**
 
-DLSS-FG: https://www.techpowerup.com/download/nvidia-dlss-3-frame-generation-dll/
-
-DLSS-RR: https://www.techpowerup.com/download/nvidia-dlss-3-ray-reconstruction-dll/
-
-Streamline: [https://github.com/NVIDIA-RTX/Streamline](https://github.com/NVIDIA-RTX/Streamline/releases)
-
-![Screenshot](https://i.imgur.com/HDwGDO2.png)
-
-
-Com todas as dlls na pasta, execute a ferramenta.
-
-![Screenshot](https://i.imgur.com/cOyV6hG.png)
-
-
-Confirme se a ferramenta detectou as 3 DLLs vendo a versão delas.
-
-Marque a caixa "Enable NVIDIA Streamline Override Mode"
-
-A caixa **"Let users decide DLSS Overridden by latest available"** serve para que você controle o override pelo NVIDIA Profile Inspector, com ela **DESMARCADA**, todos os jogos terão suas DLLs substituidas pela última, com ela **MARCADA**, você controla quando substituir a DLL pelo Profile Inspector.
+A caixa **"Force Enable DLSS Override on All DLSS Titles"** serve para que você controle o override pelo NVIDIA Profile Inspector, com ela **MARCADA**, todos os jogos terão suas DLLs substituidas pela última, com ela **DESMARCADA**, você controla quando substituir a DLL pelo Profile Inspector.
 
 A caixa **"Show DLSS Indicator"** ativa o overlay do DLSS no jogo, alterando o registro (o mesmo que faz o DLSS Overlay Toggle)
 

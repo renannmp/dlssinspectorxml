@@ -4,7 +4,7 @@
 		<CustomSetting>
 			<UserfriendlyName>DLSS - Enable DLL Override</UserfriendlyName>
 			<HexSettingID>0x10E41E01</HexSettingID>
-			<GroupName>5 - Common</GroupName>
+			<GroupName>0.1 - DLSS Tools</GroupName>
 			<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
 			<Description>If enabled, overrides DLSS with the latest global version installed (${DlssVersion}).\r\nNVIDIA periodically push OTA updates for the global version, though it often lags behind the actual latest available online.\r\nOnly DLSS2+ games support the global override, certain games may also disallow using it.</Description>
 			<SettingValues>
@@ -9044,4 +9044,5 @@
     </CustomSetting>-->
 	</Settings>
 </CustomSettingNames>
+
 

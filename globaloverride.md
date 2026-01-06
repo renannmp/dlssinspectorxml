@@ -27,3 +27,5 @@ A caixa **"Force Enable DLSS Override on All DLSS Titles"** serve para que você
 A caixa **"Show DLSS Indicator"** ativa o overlay do DLSS no jogo, alterando o registro (o mesmo que faz o DLSS Overlay Toggle)
 
 Minha recomendação é deixar igual ao da screenshot acima, apenas desmarcar o Show DLSS Indicator depois que confirmar que funcionou.
+
+Clique em "Update" e pronto.

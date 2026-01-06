@@ -9,7 +9,7 @@ Roda de forma portátil, ou seja, não requer instalação, ela substitui as DLL
 
 Baixe a última versão dessa ferramenta (nvidiaDlssGlom.exe) no repositório do desenvolvedor -> https://github.com/SimonMacer/AnWave/releases/tag/AnWave-DLSS
 
-Baixe também a última versão do NVIDIA Streamline SDK -> https://github.com/NVIDIA-RTX/Streamline/releases/tag/v2.10.0/latest
+Baixe também a última versão do NVIDIA Streamline SDK -> https://github.com/NVIDIA-RTX/Streamline/releases/latest
 
 Vá até a pasta streamline-sdk-v2.10.0\bin\x64 pegue todas as DLLs dentro dela, somente as DLLs dessa pasta, de forma alguma pegue as da pasta "development"
 

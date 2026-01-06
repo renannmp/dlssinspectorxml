@@ -7,11 +7,16 @@ Roda de forma portátil, ou seja, não requer instalação, ela substitui as DLL
 
 ## Como usar
 
-Baixe a última versão dessa ferramenta (nvidiaDlssGlom.exe) no repositório do desenvolvedor. 
+Baixe a última versão dessa ferramenta (nvidiaDlssGlom.exe) no repositório do desenvolvedor -> https://github.com/SimonMacer/AnWave/releases/tag/AnWave-DLSS
 
-Link -> https://github.com/SimonMacer/AnWave/releases/tag/AnWave-DLSS
+Baixe também a última versão do NVIDIA Streamline SDK -> https://github.com/NVIDIA-RTX/Streamline/releases/tag/v2.10.0/latest
 
-Na nova versão, é possível fazer a ferramenta baixar os arquivos necessários direto dos servidores da NVIDIA, apenas inicie ela e marque "Enable NVIDIA Streamline Override Mode" e clique em "Download from server"
+Vá até a pasta streamline-sdk-v2.10.0\bin\x64 pegue todas as DLLs dentro dela, somente as DLLs! 
+
+<img width="623" height="322" alt="image" src="https://github.com/user-attachments/assets/32ef7aac-b30a-4c51-888b-09aa7e9887f1" />
+
+E coloque junto ao executável do nividaDlssGlom.exe
+
 
 ![Screenshot](https://i.imgur.com/qSoSCey.png)
 
@@ -22,14 +27,3 @@ A caixa **"Force Enable DLSS Override on All DLSS Titles"** serve para que você
 A caixa **"Show DLSS Indicator"** ativa o overlay do DLSS no jogo, alterando o registro (o mesmo que faz o DLSS Overlay Toggle)
 
 Minha recomendação é deixar igual ao da screenshot acima, apenas desmarcar o Show DLSS Indicator depois que confirmar que funcionou.
-
-
-## Qual o ganho?
-
-Com as DLLs substituidas, em jogos que suportam puxar essas DLLs Streamline mais recentes, ganharão: 
-
-Jogos com suporte ao Frame Generation ganharão o suporte ao Multi-Frame-Generation forçando pelo NVIDIA Profile Inspector;
-
-NVIDIA Reflex melhora consideravelmente; 
-
-Melhor tempo de quadro e fluidez com as tecnologias NVIDIA.

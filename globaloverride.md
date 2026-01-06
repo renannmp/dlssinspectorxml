@@ -11,7 +11,7 @@ Baixe a última versão dessa ferramenta (nvidiaDlssGlom.exe) no repositório do
 
 Baixe também a última versão do NVIDIA Streamline SDK -> https://github.com/NVIDIA-RTX/Streamline/releases/tag/v2.10.0/latest
 
-Vá até a pasta streamline-sdk-v2.10.0\bin\x64 pegue todas as DLLs dentro dela, somente as DLLs! 
+Vá até a pasta streamline-sdk-v2.10.0\bin\x64 pegue todas as DLLs dentro dela, somente as DLLs desa pasta, de forma alguma pegue as da pasta "development"
 
 <img width="623" height="322" alt="image" src="https://github.com/user-attachments/assets/32ef7aac-b30a-4c51-888b-09aa7e9887f1" />
 

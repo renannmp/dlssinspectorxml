@@ -28,4 +28,6 @@ A caixa **"Show DLSS Indicator"** ativa o overlay do DLSS no jogo, alterando o r
 
 Minha recomendação é deixar igual ao da screenshot acima, apenas desmarcar o Show DLSS Indicator depois que confirmar que funcionou.
 
-Clique em "Update" e pronto.
+Clique em **"Update"** e pronto.
+
+**Para desfazer tudo e voltar ao normal, vá até a pasta ProgramData (Windows + R, %ProgramData%), encontre a pasta NVIDIA e apague a pasta NGX.**

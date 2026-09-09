@@ -48,4 +48,4 @@ Ultra Low-Latency - Enabled -> On
 **OPCIONAL - RivaTuner Statistics Server (RTSS):** Se tiver o RTSS instalado na máquina, nas configurações do RTSS mude o **"Enable framerate limiter"** para **"NVIDIA reflex"** e desative o **"Enable passive waiting"**, também ative o **"Use Microsoft Detours API Hooking"**, recomendo também alterar o **"Frametime calculation point"** para **"Frame presentation"**, como na imagem abaixo. O NVIDIA reflex tem prioridade e sobrepõe configurações de baixa latência do NVIDIA App e NVIDIA Profile Inspector quando forçado pelo RTSS ou disponível dentro do jogo.    
 <img width="387" height="619" alt="HFAqzVuXkAAQY26" src="https://github.com/user-attachments/assets/45ccf940-22ca-431f-8684-dd0be2937631" />  
 
-Depois de configurado o RTSS dessa forma volte ao menu inicial do RTSS, clique com o botão direito na caixa "Framerate Limit" e escolha "VRR limit"  
+Depois de configurado o RTSS dessa forma volte ao menu inicial do RTSS, clique com o botão direito na caixa "Framerate Limit" e escolha "VRR cap"  
